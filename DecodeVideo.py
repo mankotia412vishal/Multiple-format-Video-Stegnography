@@ -1,5 +1,3 @@
-
-##This File for Text and text Document read
 from stegano import lsb
 import cv2
 import os
@@ -12,6 +10,8 @@ from pyfiglet import figlet_format
 import rsautil1
 from simple_colors import *
 import time
+##This File for Text and text Document read
+
 os.system('cls' if os.name == 'nt' else 'clear')
 cprint(figlet_format('Group9', font='slant'),'green', attrs=['bold'])
 print(yellow('Video Steganography', ['bold']))
