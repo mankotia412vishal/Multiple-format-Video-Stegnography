@@ -45,6 +45,10 @@ a) Install this for  Audio
 ```
 pip install SpeechRecognition
 ```
+b) Install Simple Colors Lib for Colors purpose used in the terminal.
+```
+pip install simple-colors
+```
 
 3 ) Install FFmpeg </br>
    [Changes depending on the operating system you are using.](https://ffmpeg.org/download.html) </br>
