@@ -41,6 +41,11 @@ Below encrypted image has ENCRYPTED frame numbers ``` doU2TMGlPJuGcuW5oAIM0LwyWN
 ```bash
 pip install -r requirements.txt
 ```
+a) Install this for  Audio
+```
+pip install SpeechRecognition
+```
+
 3 ) Install FFmpeg </br>
    [Changes depending on the operating system you are using.](https://ffmpeg.org/download.html) </br>
    For Linux & WSL use :
