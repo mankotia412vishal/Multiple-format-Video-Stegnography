@@ -1,18 +1,9 @@
 # Multiple-format-Video-Stegnography
 This Is a Video Steganography project contains multiple format
 
-
-#  Multiple format Video-Steganography
-
- 
-
- 
-</br> ``` A creative commons license that bans commercial use.```
 # Tested On :
  
 - Ubuntu 
- 
-
 
 ## Features
  
