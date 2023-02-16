@@ -49,7 +49,7 @@ b) Install Simple Colors Lib for Colors purpose used in the terminal.
 ```
 pip install simple-colors
 ```
-d) Install  gTTs Lib for Voice purpose used in the terminal.
+d) Install  gTTs Lib for Voice .
 ```
 pip install gTTs
 ```
