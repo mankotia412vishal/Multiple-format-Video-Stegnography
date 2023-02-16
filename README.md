@@ -1,4 +1,4 @@
-# Multiple-format-Video-Stegnography
+# Multiple-format-Video-Stegnography Using AES and RSA Algorithm
 This Is a Video Steganography project contains multiple format
 
 # Tested On :
