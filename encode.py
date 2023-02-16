@@ -47,7 +47,7 @@ def countFrames():
     cprint(f"Total frame in video are : {length-1}",'blue')
     return length
 
-# Extract the frames
+# Extract the frames from the video
 def frame_extraction(video):
     if not os.path.exists("./tmp"):
         os.makedirs("tmp")
