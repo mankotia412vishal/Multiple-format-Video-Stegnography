@@ -49,7 +49,10 @@ b) Install Simple Colors Lib for Colors purpose used in the terminal.
 ```
 pip install simple-colors
 ```
-
+d) Install  gTTs Lib for Voice purpose used in the terminal.
+```
+pip install gTTs
+```
 3 ) Install FFmpeg </br>
    [Changes depending on the operating system you are using.](https://ffmpeg.org/download.html) </br>
    For Linux & WSL use :
