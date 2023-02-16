@@ -174,44 +174,10 @@ def arrangeAndDecrypt():
                 result=result.astype(np.uint8)
                 cv2.imshow('avc',result)
                 cv2.waitKey(2000)
-            # s=msg.decode()
-            # print(type(s))
-            # # print(s)
-            # li=[]
-            # li=s.split(" ")
-            # result=[]
-            # a=[]
-            # b=[]
-            # # print((li))
-            # c=0
-            # for i in range(154):
-
-            #     for j in range(328):
-            #         for k in range(3):
-            #             b.append(int(li[c]))
-            #             c+=1
-            #         a.append(b)
-            #         b=[]
-            #     result.append(a)
-            #     a=[]
-            # # ans=[]
-            # # for i in result:
-            # #     for j in i:
-            # #         for k in j:
-            # #             ans.append(k)
-            # # print((ans))
-            # result=np.asarray(result)
-            # result=result.astype(np.uint8)
-            # # print(result.shape)
-            # print(type(result))
-            # cv2.imshow('avc',result)
-            # cv2.waitKey(0)
+            
 
             cprint(f"Decoded message: \n {msg1}",'red')
-            # msg1.save("output.mp3")
-  
-            # Playing the converted file
-            # os.system("output.mp3")
+            
             clean_tmp()
     else :
         for fn in FRAMES:
