@@ -103,6 +103,7 @@ python3 decode.py <video-to-decode-with-extension>
 1. Make sure that if you want to run the project in GUI mode then you have to place the files in encode and decode folder files in the root directories
 
 <pre>
-This project we have developed in the Parkalp 2023 hackothon 
+This project we have developed in the Parkalp 2023 hackathon.
+
 
 </pre>
