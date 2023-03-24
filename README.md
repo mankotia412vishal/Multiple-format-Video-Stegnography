@@ -98,3 +98,11 @@ python3 decode.py <video-to-decode-with-extension>
  ![Screenshot from 2023-02-16 17-09-28](https://user-images.githubusercontent.com/114608491/219355294-29da9c4b-1237-42a6-b262-b5b1168d4da9.png)
 
 
+## Important Note
+
+1. Make sure that if you want to run the project in GUI mode then you have to place the files in encode and decode folder files in the root directories
+
+<pre>
+This project we have developed in the Parkalp 2023 hackothon 
+
+</pre>
